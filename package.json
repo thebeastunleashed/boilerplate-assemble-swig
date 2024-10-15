@@ -27,14 +27,14 @@
   "dependencies": {
     "assemble-swig": "~0.1.0",
     "js-beautify": "~1.4.1",
-    "lodash": "~2.2.1",
+    "lodash": "~4.17.21",
     "swig-extensions": "~0.1.0",
     "swig-extras": "0.0.1"
   },
   "devDependencies": {
     "assemble": "~0.4.17",
     "assemble-less": "~0.5.3",
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.7.0",
     "pretty": "~0.1.1",
